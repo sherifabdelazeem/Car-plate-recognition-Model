@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>078 .jpg</filename>
+	<path>C:\Users\Sharpel Malak\Downloads\allData\train\078 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carpl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>313</ymin>
+			<xmax>373</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

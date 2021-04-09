@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>0283 .jpg</filename>
+	<path>C:\Users\Hadeer\Downloads\allData\Train\0283 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>998</width>
+		<height>1248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carpl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>722</ymin>
+			<xmax>715</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>

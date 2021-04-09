@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>0206 .jpg</filename>
+	<path>C:\Users\Sharpel Malak\Downloads\allData\test\0206 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carpl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>525</ymin>
+			<xmax>386</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>
